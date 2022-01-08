@@ -139,7 +139,9 @@ body {
     -webkit-font-smoothing: none;
     text-rendering: optimizeLegibility;
     -ms-interpolation-mode: nearest-neighbor;
-    image-rendering: pixelated
+    image-rendering: pixelated;
+    margin: 0;
+    padding: 0;
 }
 
 ::selection {
