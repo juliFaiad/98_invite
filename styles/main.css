@@ -12,13 +12,6 @@
     font-family: 'Comic Sans MS', 'Comic Neue', sans-serif
 }
 
-@font-face {
-    font-family: Calculator;
-    src: url(../fonts/digitaldreamfat.eot);
-    src: url(../fonts/digitaldreamfatd41d.eot?#iefix) format("embedded-opentype"), url(../fonts/digitaldreamfat.woff2) format("woff2"), url(../fonts/digitaldreamfat.woff) format("woff"), url(../fonts/digitaldreamfat.ttf) format("truetype");
-    font-weight: 700
-}
-
 .section.id-13 .text.id-2,
 .section.id-17 .text.id-1,
 .section.id-24 .text.id-1,

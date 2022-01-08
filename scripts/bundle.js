@@ -43,7 +43,6 @@
 						o = r('./modules/catscape.js');
 					r('./modules/linksshuffle.js')('.js-links'),
 						r('./modules/calculator.js')(document.getElementById('js-answer')),
-						t.init('./sound/', 'cameronsworld'),
 						n(t),
 						o.init(880),
 						o.on('sound', function () {
